@@ -1,5 +1,5 @@
 # Segmentation-of-Field-an-Glasshouse-Images
-Image segmentation is a fundamental but critical step for achieving automated high- throughput phenotyping. 
+Image segmentation is a fundamental but critical step for achieving automated high-throughput phenotyping. 
 While conventional segmentation methods perform well in homogenous environments, the performance decreases when used in more complex environments. 
 This study aimed to develop a fast and robust neural-network-based segmentation tool to phenotype plants in both field and glasshouse environments in a high-throughput manner. 
 Digital images of cowpea (from glasshouse) and wheat (from field) with different nutrient supplies across their full growth cycle were acquired. Image patches from 20 randomly selected images from the acquired dataset were transformed from their original RGB format to multiple color spaces. 
