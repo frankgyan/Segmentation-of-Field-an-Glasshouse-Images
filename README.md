@@ -7,4 +7,6 @@ The pixels in the patches were annotated as foreground and background with a pix
 A feature selection technique was applied to choose the sensitive features, which were used to train a multilayer perceptron network (MLP) and two other traditional machine learning models: support vector machines (SVMs) and random forest (RF).
 The performance of these models, together with two standard color-index segmentation techniques (excess green (ExG) and excess green–red (ExGR)), was compared. The proposed method outperformed the other methods in producing quality segmented images with over 98%-pixel classification accuracy. 
 Regression models developed from the different segmentation methods to predict Soil Plant Analysis Development (SPAD) values of cowpea and wheat showed that images from the proposed MLP method produced models with high 
-![Alt text]()
+
+
+![plants-12-02035-g007](https://github.com/user-attachments/assets/6fd0f582-9c0f-4414-880e-3f4c883a8814)
